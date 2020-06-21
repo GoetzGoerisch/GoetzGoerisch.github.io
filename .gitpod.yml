@@ -3,5 +3,9 @@ image:
 
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
+<<<<<<< HEAD
     command: 'echo "TODO: gem install bundler"'
     
+=======
+    command: gem install bundler
+>>>>>>> a315ffeb3db4ce36224332ff3a13f8f8ffbaf8cd
