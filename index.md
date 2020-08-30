@@ -3,6 +3,7 @@
 ## Person: Götz Görisch
 
 I'm actively contributing to the [OPC UA community](https://opcfoundation.org/ "OPC Foundation") developing companion specifications.
+Currently I'm working for the German Machine Tools Association ([VDW e.V.](https://vdw.de)) 
 
 ## Current working groups I'm involved in
 
