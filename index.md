@@ -12,7 +12,7 @@ I'm actively contributing to the [OPC UA community](https://opcfoundation.org/ "
   - [Information model best practices](https://sites.google.com/opcfoundation.online/opc-harmonization/infomodelbestpractice)
   - [Stacklight](https://sites.google.com/opcfoundation.online/opc-harmonization/stacklights)
 
-## OPC related awesome links can be found at:
+## OPC related awesome links can be found at
 
 [iswunistuttgart/awesome-opcua](https://github.com/iswunistuttgart/awesome-opcua)
 
