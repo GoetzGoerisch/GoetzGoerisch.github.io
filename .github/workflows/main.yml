@@ -24,4 +24,4 @@ jobs:
 
     # Runs Super-Linter    
     - name: Super-Linter
-      uses: github/super-linter@v3.17.1
+      uses: github/super-linter@v4.0.2
