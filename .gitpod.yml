@@ -2,4 +2,3 @@ image: gitpod/workspace-full:latest
 tasks:
   - init: gem install jekyll bundler
     command: bundle install
-    
